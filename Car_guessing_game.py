@@ -3,9 +3,9 @@ check = 'nothing'
 while i < 100:
     choice = input(">")
     if choice.upper() == 'HELP':
-        print('press start to start the car')
-        print('press stop to stop the car')
-        print('exit to close the game')
+        print('start - to start the car')
+        print('stop - to stop the car')
+        print('exit - to close the game')
     elif choice.upper() == 'START':
         if check == choice:
             print("Car is already started")
