@@ -8,7 +8,7 @@ Welcome! This repository contains all the mini-projects and practice code I've w
 
 | File Name               | Description                                         |
 |------------------------|-----------------------------------------------------|
-| `Car_guessing_game.py` | A simple game where the user types commands to control a car (start/stop/help). |
+| `Simple_Car_Game.py` | A simple game where the user types commands to control a car (start/stop/help). |
 | `Weight_converter.py`  | Converts weight between kilograms and pounds.       |
 | `Practice_Snippets.py`              | General Python practice and experiments.            |
 
