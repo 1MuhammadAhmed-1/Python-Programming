@@ -1,6 +1,15 @@
-list = [3, 6, 5, 8, 7]
-maxi = 0
-for i in list:
-    if(maxi < i):
-        maxi = i
-print(f"Maximum element in the list is: {maxi}")
+numbers = {
+    "1" : "one",
+    "2" : "two",
+    "3" : "three",
+    "4" : "four",
+    "5" : "five",
+    "6" : "six",
+    "7" : "seven",
+    "8" : "eight",
+    "9" : "nine",
+    "0" : "zero"
+}
+enter = input("Enter phone number: ")
+for i in enter:
+    print(numbers[i], " ",end="")
