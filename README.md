@@ -8,10 +8,10 @@ Welcome! This repository contains all the mini-projects and practice code I've w
 
 | File Name               | Description                                         |
 |------------------------|-----------------------------------------------------|
-| `Simple_Car_Game.py` | A simple game where the user types commands to control a car (start/stop/help). |
-| `Weight_converter.py`  | Converts weight between kilograms and pounds.       |
-| `Practice_Snippets.py`              | General Python practice and experiments.            |
-| 'num2words.py'        | Program to convert numbers into words      |
+| `Car_guessing_game.py` | A simple game where the user types commands to control a car (start/stop/help). |
+| `Weight_converter.py`  | Converts weight between kilograms and pounds.                               |
+| `Prac.py`              | General Python practice and experiments.                                    |
+| `num2words.py`         | Converts numbers into words manually using Python dictionaries and logic.   |
 
 ---
 
