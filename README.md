@@ -12,6 +12,7 @@ Welcome! This repository contains all the mini-projects and practice code I've w
 | `Weight_converter.py`  | Converts weight between kilograms and pounds.                               |
 | `Prac.py`              | General Python practice and experiments.                                    |
 | `num2words.py`         | Converts numbers into words manually using Python dictionaries and logic.   |
+| `prime_upto.py`        | Prints all prime numbers up to a number given by the user.                  |
 
 ---
 
