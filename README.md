@@ -10,7 +10,6 @@ Welcome! This repository contains all the mini-projects and practice code I've w
 |------------------------|-----------------------------------------------------|
 | `Car_guessing_game.py` | A simple game where the user types commands to control a car (start/stop/help). |
 | `Weight_converter.py`  | Converts weight between kilograms and pounds.                               |
-| `Prac.py`              | General Python practice and experiments.                                    |
 | `num2words.py`         | Converts numbers into words manually using Python dictionaries and logic.   |
 | `prime_upto.py`        | Prints all prime numbers up to a number given by the user.                  |
 | `grades_tracker.py`    | Takes marks of 3 subjects, calculates total and average, and assigns a grade.|
