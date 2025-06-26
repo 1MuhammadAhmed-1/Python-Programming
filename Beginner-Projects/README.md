@@ -34,5 +34,5 @@ This folder is intended to:
 
 ## 📌 Note
 
-All scripts are written in plain Python (no third-party libraries), and kept intentionally beginner-friendly.
+All scripts are written in Python, and kept intentionally beginner-friendly.
 
