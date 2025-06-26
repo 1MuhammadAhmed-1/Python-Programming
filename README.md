@@ -44,14 +44,6 @@ To run any Python file:
 
 ---
 
-## 🛠 Technologies Used
-
-- Python 3
-- Visual Studio Code
-- Git & GitHub
-
----
-
 ## 💬 Feedback
 
 I'm still learning, so suggestions and feedback are always welcome. Feel free to fork this repo, open issues, or share ideas!
