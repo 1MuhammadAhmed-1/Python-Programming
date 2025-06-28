@@ -11,7 +11,7 @@ This repo is a personal collection of beginner-level Python projects and automat
 Contains a simple automation script using `openpyxl` to process and modify Excel files.
 
 - 🧾 `automation.py`: Applies a 10% discount to prices in an Excel file and generates a bar chart.
-- 📊 `transactions.xlsx`: Sample Excel file for demonstration (2 rows of data).
+- 📊 `transactions.xlsx`: Sample Excel file for demonstration (3 rows of data).
 
 📄 [Read the folder-level README](Automation_Python/README.md)
 
