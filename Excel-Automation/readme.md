@@ -12,14 +12,12 @@ For clarity and future growth, you can think of this as an `excel_automation` to
 Each subfolder focuses on a specific mini-task or project:
 
 - `discount_applier/` – Apply percentage-based discounts to prices and generate a bar chart
-- `sheet_cleaner/` – Format or clean up messy Excel sheets
-- `attendance_tracker/` – Mark or extract attendance data from raw files
 - *(more tools will be added as the collection grows)*
 
 Each subfolder typically includes:
 - A Python script to run the automation
 - A sample `.xlsx` file
-- Optional mini README explaining the logic
+- A brief README explaining the task and how to use the script
 
 ---
 
