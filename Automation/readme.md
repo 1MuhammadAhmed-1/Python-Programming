@@ -1,21 +1,34 @@
-# 🛠 Automation_Python
+# 📊 Excel Automation with Python
 
-This folder contains a basic Python automation script that processes Excel data and generates a bar chart using the `openpyxl` library.
+This folder contains a growing collection of **simple Python automation scripts** focused on working with Excel spreadsheets using the `openpyxl` library.  
+It serves as a practical set of tools for automating common Excel-related tasks—like applying formulas, editing cell values, or creating charts.
 
-## 📁 Files
+For clarity and future growth, you can think of this as an `excel_automation` toolkit within the wider Python project.
 
-- `automation.py`: 
-  - Reads an Excel file (`transactions.xlsx`)
-  - Applies a 10% discount to each price in column C
-  - Writes the corrected price to column D
-  - Inserts a bar chart based on the corrected prices
+---
 
-- `transactions.xlsx`: 
-  - Sample Excel file with price data in column C
-  - Minimal dataset (only 2 rows) for testing and demonstration
+## 📁 Folder Structure
 
-## 🐍 How to Run
+Each subfolder focuses on a specific mini-task or project:
 
-1. Make sure `openpyxl` is installed:
-   ```bash
-   pip install openpyxl
+- `discount_applier/` – Apply percentage-based discounts to prices and generate a bar chart
+- `sheet_cleaner/` – Format or clean up messy Excel sheets
+- `attendance_tracker/` – Mark or extract attendance data from raw files
+- *(more tools will be added as the collection grows)*
+
+Each subfolder typically includes:
+- A Python script to run the automation
+- A sample `.xlsx` file
+- Optional mini README explaining the logic
+
+---
+
+## 🛠 Dependencies
+
+These scripts mainly rely on:
+
+- `openpyxl` – A powerful library for reading/writing Excel `.xlsx` files
+
+Install it using pip:
+```bash
+pip install openpyxl
