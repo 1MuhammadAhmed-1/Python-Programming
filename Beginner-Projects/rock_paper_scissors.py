@@ -37,4 +37,5 @@ while True:
         print("You lost!")
         computer_wins += 1
 
+print("Thank you for playing :)")
 print("Goodbye!")
